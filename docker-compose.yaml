@@ -20,6 +20,8 @@ services:
       environment:
          # default = 0, recommended to be OFF for frontend devs
          - XDEBUG_ENABLED=1
+         - XDEBUG_REMOTE_HOST=localhost
+         - PHP_IDE_CONFIG=idekey=VSCODE
          # default = latest PHP, optional = specific version
          - PHP_VERSION=8.1
 
