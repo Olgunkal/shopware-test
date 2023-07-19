@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://attached-container+7b22636f6e7461696e65724e616d65223a222f73686f7077617265227d/var/www/html"
+		}
+	],
+	"remoteAuthority": "attached-container+7b22636f6e7461696e65724e616d65223a222f73686f7077617265227d",
+	"settings": {}
+}
